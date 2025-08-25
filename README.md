@@ -26,7 +26,7 @@ Graduate Student @ Northeastern University | Teaching Assistant | Ex-Senior Soft
 - **[Resume Analyst](https://github.com/dkumar247/resume-analyst)** - Web application for resume analysis and optimization
 
 ## Competitive Programming
-- **LeetCode**: 290+ problems solved | Rating: 1573 | [Profile](https://leetcode.com/u/dkumar247/)
+- **LeetCode**: 290+ problems solved (this doesn't matter though) | Rating: 1573 | [Profile](https://leetcode.com/u/dkumar247/)
 - **CodeChef**: 4⭐ (Max Rating: 1827) | [Profile](https://www.codechef.com/users/dkumar247)
 
 ## Connect with Me
