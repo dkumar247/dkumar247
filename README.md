@@ -1,6 +1,6 @@
 # Hi there, I'm Deepanshu Kumar 👋
 
-Graduate Student @ Northeastern University | Teaching Assistant | Ex-Senior Software Engineer @ Informatica
+Graduate Student @ Northeastern University | Teaching Assistant | Ex-Senior Software Engineer @ Salesforce
 
 ## About Me
 - 🎓 MS in Computer Science at Khoury College, Northeastern University
