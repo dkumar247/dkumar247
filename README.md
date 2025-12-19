@@ -6,7 +6,7 @@ Graduate Student @ Northeastern University | Teaching Assistant | Ex-Senior Soft
 - 🎓 MS in Computer Science at Khoury College, Northeastern University
 - 👨‍🏫 Teaching Assistant for CS 5010 - Programming Design Paradigm
 - 💼 Previously Senior Software Engineer at Informatica (now Salesforce) with 3+ years of experience
-- 🌱 Currently exploring **NLP** and **iOS Development**
+- 🌱 Currently exploring **NLP** and **incorporation of AI into products**.
 - 💬 Ask me about Java, Python, JavaScript, Microservices, and System Design
 
 ## Tech Stack
