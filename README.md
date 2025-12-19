@@ -7,7 +7,7 @@ Graduate Student @ Northeastern University | Teaching Assistant | Ex-Senior Soft
 - 👨‍🏫 Teaching Assistant for CS 5010 - Programming Design Paradigm
 - 💼 Previously Senior Software Engineer at Informatica with 3+ years of experience
 - 🌱 Currently exploring **NLP** and **iOS Development**
-- 💬 Ask me about Java, JavaScript, Microservices, and System Design
+- 💬 Ask me about Java, Python, JavaScript, Microservices, and System Design
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
