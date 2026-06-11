@@ -21,7 +21,7 @@ Graduate Student @ Northeastern University | Teaching Assistant | Ex-Senior Soft
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ## Featured Projects
-- **[BeFit Microservices](https://github.com/dkumar247/be-fit-microservices)** - Fitness tracking application built with Java microservices architecture
+- **[BeFit](https://github.com/dkumar247/be-fit-microservices)** - Fitness tracking application built with Java microservices architecture
 - **[Research Assistant Extension](https://github.com/dkumar247/research-asst-ext)** - Chrome extension to enhance research workflow
 - **[Resume Analyst](https://github.com/dkumar247/resume-analyst)** - Web application for resume analysis and optimization
 
